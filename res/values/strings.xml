@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">数独</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">数独</string>
+    <string name="cleanNumber">清除</string>
+
+</resources>
